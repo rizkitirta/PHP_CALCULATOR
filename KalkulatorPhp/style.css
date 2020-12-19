@@ -1,0 +1,22 @@
+.container {
+	background-color: blue;
+	margin: 150px auto;
+	width: 600px;
+	padding-bottom: 40px;
+	border: 1px solid #ccc;
+}
+
+td {
+	color:white;
+	
+}
+
+input[type=text] {
+	margin: 5px auto;
+	width: 100%;
+	padding: 10px;
+
+	border-radius: 5px;
+	height: 8px;
+	size: 40;
+}
